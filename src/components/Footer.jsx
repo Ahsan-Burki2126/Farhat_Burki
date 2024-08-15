@@ -12,7 +12,7 @@ const Footer = () => {
             <h3 className="text-white text-2xl font-bold mb-4">Farhat <span className="text-orange-600">Burki</span></h3>
             <p className="text-neutral-300 mb-4">Because I trust in Quality</p>
             <p className="text-neutral-300">
-              <strong>Email:</strong> <span className="text-orange-600">farhatburki3737@gmail.com</span> 
+              <strong>Email:</strong> <span className="text-orange-600">farhatburki1@gmail.com</span> 
             </p>
             <p className="text-neutral-300">
               <strong>Phone:</strong> <span className="text-orange-600">+92 316 9842612</span>
